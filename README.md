@@ -1,6 +1,6 @@
 # Project : Smart Car Arduino 
 <h2>
-  <b>Material and equipmentsl</b>
+Material and equipmentsl
 </h2>
 1. Arduino Uno R3
 2. HC-SR04 Ultrasonic sensor

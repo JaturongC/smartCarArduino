@@ -1,4 +1,8 @@
 
+/** Mr. Jaturong Chaleeyuth
+ *  Date : 29 August 2016
+**/
+
 # include <Servo.h>
 
 #define ECHOPIN 11        // Pin to receive pulse 
